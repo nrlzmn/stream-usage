@@ -1,0 +1,10 @@
+# Cloudflare API credentials
+CF_API_TOKEN=your_cloudflare_api_token_with_stream_read_permission
+CF_ACCOUNT_ID=your_cloudflare_account_id
+
+# Resend API credentials (https://resend.com/api-keys)
+RESEND_API_KEY=re_xxxxxxxxx
+
+# Email configuration
+NOTIFICATION_EMAIL=recipient@example.com
+FROM_EMAIL=onboarding@resend.dev
